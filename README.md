@@ -107,7 +107,7 @@
 
   - 모아봐버리기
   ![6](https://github.com/DHLaptop/ToolSoda/assets/159864643/eaa15eb0-4061-4ee1-adaf-c289c81a40e1)
-* ![4](https://github.com/DHLaptop/ToolSoda/assets/159864643/afaa044a-5413-41e0-a1d8-20fb99c64563)
+* ![7](https://github.com/DHLaptop/ToolSoda/assets/159864643/825afd95-39e3-4e60-bbf9-185324049bd0)
 * ![5](https://github.com/DHLaptop/ToolSoda/assets/159864643/78a3969b-1832-49e8-be15-91e03d8418e6)
 
 ---
