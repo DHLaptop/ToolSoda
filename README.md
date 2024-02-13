@@ -103,12 +103,24 @@
 
   - 사용자가 참가한 프로젝트의 모든 피드를 출력하며 프로젝트 관리자라면  대표 색상 변경, 삭제 등을 수행할 수 있다. 일반 사용자는 피드 작성 및 다른 사용자를 프로젝트에 초대할 수 있으며 각 피드마다 댓글과 북마크를 할 수 있다.
    ![2](https://github.com/DHLaptop/ToolSoda/assets/159864643/819e7dfd-7e7c-49c9-9a13-9f47a1a6b4fd)
+
+
 * 모아보기
 
   - 모아봐버리기
   ![6](https://github.com/DHLaptop/ToolSoda/assets/159864643/eaa15eb0-4061-4ee1-adaf-c289c81a40e1)
-* ![7](https://github.com/DHLaptop/ToolSoda/assets/159864643/825afd95-39e3-4e60-bbf9-185324049bd0)
-* ![5](https://github.com/DHLaptop/ToolSoda/assets/159864643/78a3969b-1832-49e8-be15-91e03d8418e6)
+
+
+* 관리자 페이지
+
+  - 관리자
+  ![7](https://github.com/DHLaptop/ToolSoda/assets/159864643/825afd95-39e3-4e60-bbf9-185324049bd0)
+
+ 
+* 회원가입,로그인
+
+  - 회원가입 로그인해버리기
+  ![5](https://github.com/DHLaptop/ToolSoda/assets/159864643/78a3969b-1832-49e8-be15-91e03d8418e6)
 
 ---
 # ERD 다이어그램
