@@ -93,7 +93,8 @@
 ---
 # 주요 기능
 * 대시보드<br>
-  - ![1](https://github.com/DHLaptop/ToolSoda/assets/159864643/b110eccf-a917-43ab-a5a9-4c94bec17adb)
+  -  로그인 후 나오는 메인 페이지, 좌측바와 위젯을 통해 프로젝트의 상태 및 일정을 확인할 수 있으며 개인 상태메세지 및 배경이미지를 설정할 수 있다.
+    ![1](https://github.com/DHLaptop/ToolSoda/assets/159864643/b110eccf-a917-43ab-a5a9-4c94bec17adb)
 * ![2](https://github.com/DHLaptop/ToolSoda/assets/159864643/819e7dfd-7e7c-49c9-9a13-9f47a1a6b4fd)
 * ![3](https://github.com/DHLaptop/ToolSoda/assets/159864643/39f1f334-db38-4f91-9716-fbefe526c6cc)
 * ![4](https://github.com/DHLaptop/ToolSoda/assets/159864643/afaa044a-5413-41e0-a1d8-20fb99c64563)
