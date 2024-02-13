@@ -2,11 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SODA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-  
- 
-<br>
+
 ## 목차
-<br>
+
+
 1. [개발을 하고 싶어요](#개발을-하고-싶어요)
 2. [코딩을 잘하고 싶어요](#coding을-잘하고-싶어요)
  
