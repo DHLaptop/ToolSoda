@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SODA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-# 협업툴<< SODA >>
+# 협업툴 < SODA >
 ---
 # 협력SODA조
 ### 신동한(조장),이민성,장세현,문현식
