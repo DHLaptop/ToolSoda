@@ -8,7 +8,7 @@
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
  
 <br>
-
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckpigsdh@gmail.com&layout=compact"><br>
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
