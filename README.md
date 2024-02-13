@@ -97,12 +97,7 @@
 * ![3](https://github.com/DHLaptop/ToolSoda/assets/159864643/39f1f334-db38-4f91-9716-fbefe526c6cc)
 * ![4](https://github.com/DHLaptop/ToolSoda/assets/159864643/afaa044a-5413-41e0-a1d8-20fb99c64563)
 * ![5](https://github.com/DHLaptop/ToolSoda/assets/159864643/78a3969b-1832-49e8-be15-91e03d8418e6)
-* ㄴㅁㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-* ㄴㅁㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-* ㄴㅁㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-* ㄴㅁㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-* ㅂㅈㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ
-* ㅂㅈㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ
+
 ---
 # ERD 다이어그램
 ![KakaoTalk_20240213_175702541](https://github.com/DHLaptop/ToolSoda/assets/159864643/29d96d9c-4a1c-4b16-b390-bafec54b4052)
