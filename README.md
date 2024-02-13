@@ -93,7 +93,7 @@
 ---
 # 주요 기능
 * ![1](https://github.com/DHLaptop/ToolSoda/assets/159864643/b110eccf-a917-43ab-a5a9-4c94bec17adb)
-* ㅁㄴㅇㅁㄴㅇㅁㅁㅁㅁㅁㅁㅁㅁ
+* ![2](https://github.com/DHLaptop/ToolSoda/assets/159864643/819e7dfd-7e7c-49c9-9a13-9f47a1a6b4fd)
 * ㅁㄴㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
 * ㄴㅁㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
 * ㄴㅇㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ
