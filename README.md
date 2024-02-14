@@ -133,12 +133,5 @@
 # ERD 다이어그램
 ![KakaoTalk_20240213_175702541](https://github.com/DHLaptop/ToolSoda/assets/159864643/29d96d9c-4a1c-4b16-b390-bafec54b4052)
 ---
-## 📞 Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:luckpigsdh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
 
 </div>
