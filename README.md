@@ -52,12 +52,10 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-    <br>
-    <br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHLaptop)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHLaptop)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
