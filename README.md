@@ -44,8 +44,9 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/apache tomcat-2C2255?style=for-the-badge&logo=eclipse&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
